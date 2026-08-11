@@ -66,3 +66,8 @@ node_modules/
 # Build artifacts
 *.build
 *.dist
+
+# 工作室交付物归档（SOP: /outputs，需纳入版本管理）
+!outputs/
+!outputs/**/*.pdf
+!outputs/**/*.html
