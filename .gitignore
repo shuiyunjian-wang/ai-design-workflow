@@ -53,7 +53,12 @@ renders/
 *.jpeg
 *.pdf
 !docs/**/*.png
+!docs/**/*.pdf
 !examples/**/*.png
+!outputs/**/*.png
+!outputs/**/*.jpg
+!outputs/**/*.jpeg
+!outputs/**/*.pdf
 
 # Secrets
 .env
