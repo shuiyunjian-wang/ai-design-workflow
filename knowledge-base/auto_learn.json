@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "idle_minutes": 1,
+  "sched_start": "",
+  "sched_end": "",
+  "eagle_enabled": true,
+  "eagle_folders": [],
+  "eagle_tags": [],
+  "per_cycle": 1000
+}
